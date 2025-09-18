@@ -45,6 +45,15 @@ It demonstrates how e-commerce platforms can help artisans showcase their produc
 
 ## 📸 Screenshots
 
+### 🏠 Home Page
+![Home Page](./home.png)
+
+### 🛒 Cart Page
+![Cart Page](./cart.png)
+
+### 💳 Checkout Page
+![Checkout Page](./checkout.png)
+
 
 ---
 
